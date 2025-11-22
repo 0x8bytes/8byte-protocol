@@ -94,21 +94,6 @@ Under the **8Byte Protocol**, the role of human developers undergoes a fundament
 
 ---
 
-## 🚀 Scope
-
-We will apply the **8Byte Protocol** to gradually open-source best practices in core Web3 tracks:
-
-* 🔹 **DEX Protocol**: AI-driven core logic for Decentralized Exchanges.
-* 🔹 **EVM Infrastructure**: Smart contract standard libraries and toolchains.
-* 🔹 **TON Ecosystem**: Asynchronous architecture practices based on the TON blockchain.
-* 🔹 **Wallet Plugins**: AI generation paradigms for plugins like MetaMask.
-
----
-
-## 🤝 Join Us
-
-We are looking for developers who believe in the future of **AI + Web3**. If you are tired of reinventing the wheel and want to experience the thrill of "commanding an army of Agents," welcome to join the **8Byte Protocol**.
-
 **Let's redefine coding. Together.**
 
 ---

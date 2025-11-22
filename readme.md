@@ -96,20 +96,6 @@ AI Agent 不应只是指令的盲目执行者（Executor），而应是具备独
 
 ---
 
-## 🚀 开源项目范围 (Scope)
-
-我们将应用 **8字节协议** 逐步开源 Web3 核心赛道的最佳实践：
-
-* 🔹 **DEX Protocol**: AI 驱动的去中心化交易核心逻辑。
-* 🔹 **EVM Infrastructure**: 智能合约标准库与工具链。
-* 🔹 **TON Ecosystem**: 基于 TON 链的异步架构实践。
-* 🔹 **Wallet Plugins**: MetaMask 等插件的 AI 生成范式。
-
----
-
-## 🤝 加入我们 (Join Us)
-
-我们正在寻找相信 **AI + Web3** 未来的开发者。如果你厌倦了重复造轮子，如果你想体验“指挥千军万马（Agents）”的编程快感，欢迎加入 **8字节协议**。
 
 **Let's redefine coding. Together.**
 
