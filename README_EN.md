@@ -1,7 +1,7 @@
 # 8Byte Protocol
 
 <div align="center">
-  <img src="./assets/logo.jpg" alt="8Byte Protocol Logo" width="200"/>
+  <img src="./assets/logo.png" alt="8Byte Protocol Logo" width="200"/>
 
   ### 8Byte Protocol
   **Redefining Web3 Programming with AI**
@@ -17,85 +17,91 @@
 
 ---
 
-## 🌌 Vision: The Harmony of Human and AI in Programming
+## 🌌 Vision: The Realm of Human-AI Harmony
 
-**8Byte Protocol** is an open-source virtual team organization framework and engineering standard. Our goal is not merely "using AI to assist in writing code," but to build an **"AI Empathy Programming"** ecosystem.
+**8Byte Protocol** is an open-source virtual team organization model and engineering standard. Our goal is not merely to "use AI to assist in coding," but to build an ecosystem of **"AI Empathy Programming."**
 
-Here, code is no longer just a collection of machine instructions—it is a **high-fidelity bridge** between human intent and AI logic. We are committed to eliminating the contextual gap between humans and silicon-based intelligence, achieving a collaborative flow where **"you understand its intent, and it comprehends your mind"**.
+Here, code is no longer just a collection of machine instructions; it is a **high-fidelity bridge** between Human Intent and AI Logic. We are dedicated to eliminating the contextual gap between humans and silicon-based intelligence, achieving a collaboration flow where **"You know its intent, and it understands your mind."**
 
-> **Our Mission**: To implement AI-driven Web3 technology and provide open-source best practice examples. We offer paradigms for AI programming practitioners to emulate and trustworthy technical references for Web3 developers.
+> **Our Mission**: To bring AI-driven Web3 technologies to life by providing best-practice open-source cases. We aim to offer a "paradigm" for AI programming practitioners to emulate and a trustworthy technical reference for Web3 developers.
 
 ---
 
 ## 🧠 Core Philosophy: AI Empathy Programming
 
-Traditional programming is humans writing for machines; **8Byte Protocol** advocates for **humans writing for AI, which then interprets for machines**.
+Traditional programming is Humans writing for Machines. **8Byte Protocol** advocates for **Humans writing for AI, which then performs for Machines.**
 
 ### 1. What is "Empathy"?
-In the code world, empathy means **Context Alignment**.
-* **Tacit understanding like close friends**: Without lengthy prompts, AI understands your code style, business metaphors, and architectural intent.
-* **Dynamically evolving relationship**: Empathy is not static. As the project progresses, AI continuously refines its behavioral patterns by reading the "seed code" and "protocol documentation" we provide, ultimately achieving zero-friction collaboration in perfect harmony.
+In the coding world, empathy is **Context Alignment**.
+* **Tacit Understanding**: Like a soulmate, the AI understands your coding style, business metaphors, and architectural intent without needing verbose Prompts.
+* **Dynamic Evolution**: Empathy is not static. As the project progresses, the AI refines its behavioral patterns by reading the "Seed Code" and "Protocol Documents" we provide, eventually reaching a friction-less collaboration state of "Human-AI Unity."
 
 ### 2. How to Achieve "Empathy"? (The Consensus Loop)
-We implement this through a rigorous **"Consensus Loop"**:
-* **Seed**: Humans write a small amount of core demos and architectural primitives.
-* **Harvest**: Let the Agent analyze demos and automatically extract project specifications (such as `.cursorrules` or prompt templates).
-* **Propagate**: AI generates high-quality, stylistically consistent business code in batches based on its own summarized specifications.
-* **Refine**: Humans verify results, update specifications, and complete one iteration of empathy development.
+We achieve this through a rigorous **"Consensus Loop"**:
+* **Seed**: Humans write a small amount of core Demos and architectural primitives.
+* **Harvest**: Agents analyze the Demos to automatically summarize and refine project standards (e.g., `.cursorrules` or Prompt templates).
+* **Propagate**: AI generates high-quality, stylistically unified business code in bulk based on the standards it summarized.
+* **Refine**: Humans verify the results, update the standards, and complete an empathy iteration.
 
 ---
 
-## 🏗️ Protocol Specifications: AI-Native Environment Engineering
+## 🏗️ Protocol Specifications: AI-Native Environment
 
-To enable AI Agents to work efficiently, we must build an engineering environment that aligns with AI thinking characteristics (context window limitations, attention mechanisms).
+To enable AI Agents to work efficiently, we must build an engineering environment that fits AI thinking characteristics (context window limits, attention mechanisms).
 
 ### 2.0 Product Consensus
-* **Intent First**: `project/readme.md` doesn't just describe features—it describes **"why we build"**. AI must understand the value proposition behind the business to avoid logical hallucinations.
+* **Intent-First**: `project/readme.md` should not just describe functionality but explain **"Why we are doing this."** AI must understand the value proposition behind the business to avoid logical hallucinations.
 
 ### 2.1 Architecture Consensus
-* **Atomic Design Principle**:
-    * "God class" files are strictly prohibited. Each file must follow **Single Responsibility Principle (SRP)** and be sufficiently concise.
-    * **Purpose**: Maximize RAG (Retrieval-Augmented Generation) accuracy and reduce AI context noise.
+* **Atomic Design**:
+    * **Strict Single Responsibility Principle (SRP)**: Files must be small and focused. No "God Classes."
+    * **Purpose**: To maximize the accuracy of RAG (Retrieval-Augmented Generation) and reduce context noise for the AI.
 * **Semantic Anchoring**:
-    * File naming and variable naming must contain complete business semantics.
-    * **Standard**: Enable AI to retrieve quickly—understanding content from the filename alone without reading the entire file.
+    * File naming and variable naming must contain full business semantics.
+    * **Standard**: Optimized for AI Retrieval, allowing the AI to know the content just by the filename without reading the full text.
 
 ### 2.2 Documentation Consensus
-* **AI-Maintained Documentation**: Specification documents should not be maintained by humans but should be automatically summarized and updated by Agents based on code changes.
-* **Minimalist Thinking**: All comments should be written from an AI perspective—explaining the **"intent"** that code cannot express, rather than explaining the syntax itself.
+* **AI-Maintained**: Standard documentation should not be maintained by humans but automatically summarized and updated by Agents based on code changes.
+* **Lean Thinking**: All comments should be written with an AI mindset—explaining the **"Intent"** that code cannot express, rather than explaining the syntax itself.
+
+### 2.3 Benevolence to Agents: Tool-First Principle
+We believe that **compute is precious**. The best way to treat an AI Agent well is to spare it from repetitive "grunt work."
+* **Refusal to Reinvent the Wheel**: When facing massive, standardized, repetitive tasks (e.g., generating 50 similar configuration scripts), **do not** ask the AI to generate them one by one.
+* **Meta-Programming**: Instruct the AI to write a **"Generator Tool"** (e.g., a Python or Shell script), and then let the AI **use this tool** to complete the task.
+* **Value**: This minimizes Token consumption, drastically speeds up development, and respects the AI as a "Logic Builder" rather than a "Typist."
 
 ---
 
-## 👥 Team Structure: The Future of Development Teams
+## 👥 Organization: The Future R&D Team
 
-Under the **8Byte Protocol**, the role of human developers will fundamentally transform:
+Under the **8Byte Protocol**, the role of human developers undergoes a fundamental shift:
 
-### 1. Context Architect
-* **Core Responsibility**: Design system boundaries that AI can easily understand and write efficient context prompts.
-* **Required Skills**: Excellent architectural design capabilities, deep understanding of LLM thinking patterns, responsible for writing complex AI task briefs.
-* **Goal**: Describe the most complex tasks with the fewest tokens.
+### 1. Context Architect (Project Chief Engineer)
+* **Core Responsibilities**: Design system boundaries that are easy for AI to understand; write efficient Context Prompts.
+* **Capabilities**: Excellent architectural design skills, deep understanding of LLM thinking patterns, ability to write complex AI Task descriptions.
+* **Goal**: Describe the most complex tasks using the fewest Tokens.
 
-### 2. Agent Shepherd
-* **Core Responsibility**: Supervise AI task execution, conduct code reviews, handle edge cases that AI cannot cover.
-* **Required Skills**: Strong business comprehension, keen code appreciation (judging the security and quality of AI-generated code).
-* **Goal**: Ensure AI-produced code is secure, usable, and compliant with Web3 industry standards (such as gas optimization and attack prevention).
+### 2. Agent Shepherd (Chief Engineer Assistant)
+* **Core Responsibilities**: Supervise AI task execution, conduct Code Reviews, and handle Edge Cases that AI cannot cover.
+* **Capabilities**: Strong business understanding, keen code appreciation skills (judging the security and quality of AI-generated code).
+* **Goal**: Ensure AI-produced code is secure, usable, and compliant with Web3 industry standards (e.g., Gas optimization, Attack prevention).
 
 ---
 
-## 🚀 Open Source Project Scope
+## 🚀 Scope
 
-We will gradually open-source best practices for core Web3 tracks using the **8Byte Protocol**:
+We will apply the **8Byte Protocol** to gradually open-source best practices in core Web3 tracks:
 
-* 🔹 **DEX Protocol**: AI-driven decentralized exchange core logic.
+* 🔹 **DEX Protocol**: AI-driven core logic for Decentralized Exchanges.
 * 🔹 **EVM Infrastructure**: Smart contract standard libraries and toolchains.
-* 🔹 **TON Ecosystem**: Asynchronous architecture practices based on TON blockchain.
-* 🔹 **Wallet Plugins**: AI-generated paradigms for MetaMask and other plugins.
+* 🔹 **TON Ecosystem**: Asynchronous architecture practices based on the TON blockchain.
+* 🔹 **Wallet Plugins**: AI generation paradigms for plugins like MetaMask.
 
 ---
 
 ## 🤝 Join Us
 
-We are looking for developers who believe in the **AI + Web3** future. If you're tired of reinventing the wheel, if you want to experience the thrill of "commanding thousands of troops (Agents)" in programming, welcome to join **8Byte Protocol**.
+We are looking for developers who believe in the future of **AI + Web3**. If you are tired of reinventing the wheel and want to experience the thrill of "commanding an army of Agents," welcome to join the **8Byte Protocol**.
 
 **Let's redefine coding. Together.**
 

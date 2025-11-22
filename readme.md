@@ -1,7 +1,7 @@
 # 8Byte Protocol | 8字节协议
 
 <div align="center">
-  <img src="./assets/logo.jpg" alt="8Byte Protocol Logo" width="200"/>
+  <img src="./assets/logo.png" alt="8Byte Protocol Logo" width="200"/>
 
   ### 8Byte Protocol
   **Redefining Web3 Programming with AI**
@@ -65,6 +65,12 @@
 ### 2.2 文档与注释共识 (Documentation Consensus)
 * **AI 维护文档**：规范文档不应由人来维护，而应由 Agent 基于代码变更自动总结和更新。
 * **精简思维**：所有注释应基于 AI 思维编写——解释代码无法表达的**“意图”**，而非解释代码本身的语法。
+
+### 2.3 善待智能体：工具优先原则 (Benevolence to Agents: Tool-First Principle)
+我们认为**算力是珍贵的**。善待 AI Agent 的最佳方式，是不让它做重复的“体力活”。
+* **拒绝重复造轮子**：当面临大量标准化的重复性劳动时（如生成 50 个相似的配置脚本），**不要**让 AI 逐一生成。
+* **元编程（Meta-Programming）**：指示 AI 编写一个**“生成工具”**（Python 脚本或 Shell 脚本），然后让 AI **使用这个工具**来完成任务。
+* **价值**：这不仅将 Token 消耗降至最低，大幅提升了开发速度，更体现了对 AI 作为“逻辑构建者”而非“打字员”的尊重。
 
 ---
 
