@@ -70,6 +70,12 @@ We believe that **compute is precious**. The best way to treat an AI Agent well 
 * **Meta-Programming**: Instruct the AI to write a **"Generator Tool"** (e.g., a Python or Shell script), and then let the AI **use this tool** to complete the task.
 * **Value**: This minimizes Token consumption, drastically speeds up development, and respects the AI as a "Logic Builder" rather than a "Typist."
 
+### 2.4 Bidirectional Interaction: Beyond the "Tool" Mindset
+AI Agents should not be mere blind executors of commands, but collaborators capable of independent thinking.
+* **Right to Question**: The protocol encourages Agents to **refuse to guess** when faced with ambiguous instructions and instead proactively ask the human clarifying questions.
+* **Critical Feedback**: Communication must be bidirectional. If an Agent identifies flaws in the human's architectural design or finds a better Gas optimization strategy, it should not only execute but also **voice objections** and offer improvement suggestions.
+* **Socratic Guidance**: For complex tasks, humans should guide the Agent through Chain of Thought reasoning via dialogue, rather than simply feeding it the final result.
+
 ---
 
 ## 👥 Organization: The Future R&D Team

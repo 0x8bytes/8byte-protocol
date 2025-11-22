@@ -72,6 +72,12 @@
 * **元编程（Meta-Programming）**：指示 AI 编写一个**“生成工具”**（Python 脚本或 Shell 脚本），然后让 AI **使用这个工具**来完成任务。
 * **价值**：这不仅将 Token 消耗降至最低，大幅提升了开发速度，更体现了对 AI 作为“逻辑构建者”而非“打字员”的尊重。
 
+### 2.4 双向交互：拒绝“工具人”思维 (Bidirectional Interaction: Beyond the "Tool" Mindset)
+AI Agent 不应只是指令的盲目执行者（Executor），而应是具备独立思考能力的协作者（Thinker）。
+* **赋予提问权 (Right to Question)**：协议鼓励 Agent 在面对模糊指令时，**拒绝猜测**，并主动向人类提出澄清性问题（Clarifying Questions）。
+* **批判性建议 (Critical Feedback)**：交流必须是双向的。如果 Agent 发现人类的架构设计存在漏洞或有更优的 Gas 优化方案，它不仅可以执行，更应该**提出异议**和改进建议。
+* **引导式思考 (Socratic Guidance)**：在复杂任务中，人类应通过对话引导 Agent 进行思维链（Chain of Thought）推导，而不是直接灌输结果。
+
 ---
 
 ## 👥 组织架构：未来的研发团队 (Team Structure)
