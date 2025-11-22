@@ -1,7 +1,7 @@
 # 8Byte Protocol
 
 <div align="center">
-  <img src="./assets/logo.png" alt="8Byte Protocol Logo" width="200"/>
+  <img src="./assets/logo.jpg" alt="8Byte Protocol Logo" width="200"/>
 
   ### 8Byte Protocol
   **Redefining Web3 Programming with AI**
